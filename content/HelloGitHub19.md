@@ -42,7 +42,7 @@ for (String sentence : testCase)
 ```
 
 
-3、[MVPArt](https://hellogithub.com/periodical/statistics/click?target=https://github.com/JessYanCoding/MVPArt)：一个新的 MVP 架构，此框架旨在解决传统 MVP 类和接口太多、并且 Presenter 和 View 通过接口通信过于繁琐、重用 Presenter 代价太大等问题。架构图如下：
+3、[MVPArt](https://hellogithub.com/periodical/statistics/click?target=https://github.com/JessYanCoding/MVPArt)：一个新的 MVP  架构，此框架旨在解决传统 MVP 类和接口太多、并且 Presenter 和 View 通过接口通信过于繁琐、重用 Presenter 代价太大等问题。架构图如下：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/19/83117984.png' style="max-width:80%; max-height=80%;"></img></p>
